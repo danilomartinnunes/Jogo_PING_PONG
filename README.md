@@ -5,7 +5,7 @@
 
 Descrição: Jogo de Ping Pong - Multiplayer
 
-Funcionalidades: Jogar e marcar ponto no adversário, não deixando que a bolinha bata no fim da sua tela. Movimentações através das setas e do teclado.
+Funcionalidades: Jogar e marcar ponto no adversário, não deixando que a bolinha bata no fim da sua tela. Movimentações através das setas para cima e para baixo e das teclas W para cima e S para baixo.
 
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 
